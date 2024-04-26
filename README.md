@@ -30,7 +30,7 @@ Este programa es un conversor de monedas que utiliza la API de ExchangeRate-API 
 
 1. Clona el repositorio:
 
-git clone
+git clone https://github.com/sumforthefool/oracleConvertidorDeDivisas.git
 
 2. Configura la clave API:
 
